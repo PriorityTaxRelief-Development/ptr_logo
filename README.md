@@ -1,1 +1,2 @@
-# ptr_logo
+
+Logo package for public use
